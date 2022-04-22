@@ -1,0 +1,5 @@
+C:\Proje_BK5182\NoteProje\Note.Core\bin\Debug\Note.Core.dll
+C:\Proje_BK5182\NoteProje\Note.Core\bin\Debug\Note.Core.pdb
+C:\Proje_BK5182\NoteProje\Note.Core\obj\Debug\Note.Core.csproj.CoreCompileInputs.cache
+C:\Proje_BK5182\NoteProje\Note.Core\obj\Debug\Note.Core.dll
+C:\Proje_BK5182\NoteProje\Note.Core\obj\Debug\Note.Core.pdb

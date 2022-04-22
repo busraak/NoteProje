@@ -1,0 +1,21 @@
+﻿
+@using Note.Domain
+@using Note.WebApp.Models
+
+@{ 
+    List<Category> list = CacheHelper.GetCategoriesFromCache();
+}
+
+<p class="display-4">Kategoriler</p>
+<div class="list-group">
+    <a href="@Url.Action("Index","Home")" class="list-group-item list-group-item-action">
+    <i class="fa fa-th-list mr-2"></i>Tümü</a>
+
+    @foreach (Category category in list)
+    {
+        <a href="/Home/ByCategory/@category.Id" title="@category.Description" class="list-group-item list-group-item-action">
+            <i class="fa fa-th-list mr-2"></i>@category.Title</a>
+    }
+
+
+</div>

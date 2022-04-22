@@ -1,0 +1,26 @@
+﻿@using Note.Domain
+@model Not
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h3 class="text-center">
+            @Model.Title
+        </h3>
+    </div>
+    <div class="col-md-12">
+        <hr />
+    </div>
+    <div class="col-md-12 text-right">
+        <span class="fa fa-user"></span> @Model.Owner.Username<br />
+        <span class="fa fa-time"></span> @Model.ModifiedOn
+    </div>
+    <div class="col-md-12">
+        <hr />
+    </div>
+    <div class="col-md-12">
+        <p class="text-justify">
+            @Model.Text
+        </p>
+    </div>
+</div>

@@ -1,0 +1,5 @@
+C:\Proje_BK5182\NoteProje\Note.Domain\bin\Debug\Note.Domain.dll
+C:\Proje_BK5182\NoteProje\Note.Domain\bin\Debug\Note.Domain.pdb
+C:\Proje_BK5182\NoteProje\Note.Domain\obj\Debug\Note.Domain.csproj.CoreCompileInputs.cache
+C:\Proje_BK5182\NoteProje\Note.Domain\obj\Debug\Note.Domain.dll
+C:\Proje_BK5182\NoteProje\Note.Domain\obj\Debug\Note.Domain.pdb
